@@ -35,6 +35,7 @@ void garis() {
 
 void run_program() {
     garis();
+    cout << CYAN << "  FERNANDA RIFKY SYAHRIAL (23533738)  " << RESET << endl;
     cout << CYAN << "  SISTEM PENILAIAN RISIKO KESEHATAN (FUZZY)  " << RESET << endl;
     garis();
 
